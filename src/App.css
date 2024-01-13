@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+}
+button{
+  width: 100px;
+  height: 50px;
+  text-align: 13px;
+  background-color: rgb(90, 175, 147);
+  color: white;
+  border: 2px  rgb(90, 175, 147) solid;
+  margin-left: 20px;
+}
+
+
+button:hover{
+  background-color:white;
+  border: 2px  rgb(90, 175, 147) solid;
+  color: rgb(90, 175, 147);
+}
+
+
+h1{
+  color: rgb(46, 97, 80) ;
+}
